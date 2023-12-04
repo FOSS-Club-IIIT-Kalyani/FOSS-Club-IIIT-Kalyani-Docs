@@ -1,7 +1,7 @@
 # Core Team Structure
 The establishment of the core team should be done as soon as the lead's tenure begins, we adhered to the following proposed structure:
 
-There will be two main teams: the **Core Team** and the **Member’s Team** . Both the teams will consist of individuals with expertise in one/multiple of the following domains:
+There will be three teams: the **Core Team** , the **External Core Team** and the **Fresh Faces Team** . All the teams will consist of individuals with expertise in one/multiple of the following domains:
 
 - Managerial Backbone
 - Tech Folks
@@ -9,12 +9,14 @@ There will be two main teams: the **Core Team** and the **Member’s Team** . Bo
 - Word Spreader
 - I know everything
 
-For each event, a unique combination of these core team members will be assembled into an **Atomic Team** and tasked with organizing the specific event. This approach ensures that multiple Atomic Teams can **concurrently manage preparations** for various events.
+- **Core Team**: Comprising individuals with a wealth of prior experience in event management, community activities, and leadership within a community, club, or team. Their exceptional passion for Free and Open Source Software (FOSS) and its evangelism is characterized by a unique and visionary approach. Members of the Core Team bear the responsibility of active participation, oversight, and management of all club activities throughout the year.
 
-# Core Team Recruitment Process
-- Initially, we disseminated a formal application form, wherein participants were required to provide their personal details, specify their areas of expertise, respond to three questions, and submit evidence of their work within the specified domains. The form link is provided here: [link].
-- Subsequently, shortlisted candidates received email notifications containing the option to choose a preferred time slot for an interview.
-- During the interview process, emphasis was placed on evaluating candidates' previous experiences in Free and Open Source Software (FOSS), assessing their comprehension and vision within the domain, and gauging their commitment to contributing to the community.
+- **External Core Team**: Comprising individuals with lesser experience in event management, community activities, and leadership roles. Their responsibilities include dedicated focus on specific club activities and projects, aiming for excellence in execution. Organized into Atomic Teams, each team concentrates on a distinct activity, facilitating the planning of concurrent events. External Core Members actively contribute to events on an individual basis, enhancing their involvement and experience in a step-wise manner.
+
+- **Fresh Faces**: Encompassing individuals with minimal to no prior experience in event management, community activities, and leadership roles—essentially, newcomers whose standout enthusiasm has earned them a place in this team. Members of the Fresh Faces category contribute to events by assisting Core and External Core Team members. Simultaneously, they engage in a learning and growth process, gaining valuable experience. Like their counterparts, Fresh Faces are also organized into Atomic Teams, each focusing on a specific club activity.
+
+## What is Atomic Team and Why ?
+An Atomic Team will comprise 5-10 **External Core** and **Fresh Faces** Team Members, forming flexible combinations, each possessing expertise in distinct domains such as Management (Managerial Backbone), Creative (The Creative One), PR and Outreach (Word Spreader), Technology (The Tech Folk), and one with the ability to assist in all four areas (I know everything). Each Atomic Team will focus on a specific club activity, enabling the planning and execution of multiple activities simultaneously. This structure also facilitates the execution of activities even in the absence of some members due to unavoidable commitments, thereby allowing members the flexibility to take a hiatus. 
 
 # Volunteering
 For each event, depending upon the necessity, a volunteer form will be released so that people outside of the core team can also contribute and maybe in future be a part of the community.
